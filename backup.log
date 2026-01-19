@@ -1,0 +1,5 @@
+Starting backup of: /home/ashutosh/ashu/Scripts/backup-script/sample-data
+tar: Removing leading `/' from member names
+Backup saved to: /home/ashutosh/ashu/Scripts/backup-script/backups/backup_2026-01-19_14-48-01.tar.gz
+Deleting backups older than 7 days...
+Cleanup done. Script finished!
